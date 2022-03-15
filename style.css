@@ -9,5 +9,11 @@ p{
     font-family: MedievalSharp, 'Times New Roman';
 }
 body{
-    background-color: rgb(0, 0, 0);
+    background-image: linear-gradient(black 50%, white 0%);
 }
+.picture-border{
+    border-color: #f579b3d7;
+    border-width: 10px;
+    border-style: solid;
+    border-radius:50%;
+  }
